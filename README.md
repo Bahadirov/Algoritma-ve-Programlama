@@ -1,2 +1,2 @@
 # Algoritma-ve-Programlama
- Araba galeri sistemi
+Temel C dili öğrenme kodlarım
